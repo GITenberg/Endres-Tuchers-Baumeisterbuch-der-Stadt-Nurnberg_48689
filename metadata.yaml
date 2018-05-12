@@ -1,4 +1,5 @@
 _repo: Endres-Tuchers-Baumeisterbuch-der-Stadt-Nurnberg_48689
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Weech, Friedrich von
@@ -9,9 +10,14 @@ contributor:
       agent_name: Lexer, Matthias
       gutenberg_agent_id: '44923'
       url: http://www.gutenberg.org/2009/agents/44923
+covers:
+- cover_type: archival
+  image_path: 48689-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48689#Endres-Tuchers-Baumeisterbuch-der-Stadt-Nurnberg
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
